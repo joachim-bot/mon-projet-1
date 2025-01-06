@@ -1,2 +1,2 @@
 # mon-projet-1
-creéation d'annuaire telephonique
+Céation d'application pour recevoir des commandes dans une entreprise
